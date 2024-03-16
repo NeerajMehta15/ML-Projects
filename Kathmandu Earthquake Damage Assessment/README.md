@@ -1,3 +1,6 @@
+
+![Nepal](https://github.com/NeerajMehta15/ML-Projects/assets/40558001/f9316b56-1e5c-4984-ba3b-043db229ac0d)
+
 Project Description:
 The Kathmandu Earthquake Damage Assessment project aims to address the critical need for assessing potential damage to buildings in Kathmandu, Nepal, in the event of earthquakes. Inspired by the devastating Nepal earthquake of 2015, this project endeavors to create a robust model capable of predicting the extent of damage to buildings based on various attributes such as house structure, geographic location, and family/usage patterns.
 
